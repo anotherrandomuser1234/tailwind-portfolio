@@ -5,9 +5,6 @@ import {
 import { BsFillMoonStarsFill, BsSpotify } from "react-icons/bs";
 import { useState } from "react";
 import me from "../public/marksamurai.png";
-import code from "../public/code.png";
-import design from "../public/design.png";
-import consulting from "../public/consulting.png";
 import Image from "next/image";
 
 export default function Home() {
