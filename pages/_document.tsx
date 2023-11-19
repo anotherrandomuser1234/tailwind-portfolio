@@ -12,10 +12,8 @@ export default function Document() {
         />
       </Head>
       <body className="font-poppins">
-        <DarkModeProvider darkMode={false}>
-          <Main />
-          <NextScript />
-        </DarkModeProvider>
+        <Main />
+        <NextScript />
       </body>
     </Html>
   );
